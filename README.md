@@ -65,7 +65,3 @@ B.Tech (Honors) in Electronics and Communication (July 2019 – June 2023)
 - Completed **B.Tech (Honors)** with **Proficiency in Machine Learning**  
 
 ---
-
-## 📊 GitHub Stats
-
-![Apurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdcedcre&show_icons=true&theme=radical)
