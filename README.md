@@ -35,19 +35,6 @@ Currently exploring **full-stack development**, **automation pipelines**, and mo
 
 ---
 
-## 🚀 Projects
-
-### [Full-Stack URL Shortener](https://thriving-paletas-3353c8.netlify.app/)  
-*June 2025 – July 2025*  
-
-- Developed a **full-stack URL shortener** to create, track, and analyze short links.  
-- Built **Spring Boot backend with JWT authentication** and **PostgreSQL** database.  
-- Developed **React + Tailwind frontend**, deployed with **Docker, Netlify, and Render**.  
-- Key features: login/signup, short URL generation, click analytics dashboard.  
-- Integrated APIs efficiently using **Axios** and **React Hook Form**.  
-
----
-
 ## 🏆 Certifications
 
 - 🎓 **[Java Web Developer Nanodegree](https://www.udacity.com/certificate/e/c3e25e36-62de-11f0-b718-93531146e99e)**, Udacity  
